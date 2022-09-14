@@ -3,10 +3,10 @@ Hello,
 
 In this repository I want to present you few project made in WP
 
-1.  www.terawatt.ro
+1.  https://terawatt.ro/
 Terawatt is a company which operating in the renewable energy industry. For this client was made a presentation website where I tried to made a modern design and an interface user-friendly.
 
-2. www.solelga.ro
+2. https://solelga.ro/
 
 Solelga transport company
 I have had the pleasure of working with a company that has been in the market for 30 years. 
